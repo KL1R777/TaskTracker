@@ -1,7 +1,6 @@
 # level - сложность
-# dealine - в секундах измеряется срок выполнения
 # title - название задачи
-# prosrochka - задача не выполнена в срок
+
 import time
 from threading import Thread
 class Task:
